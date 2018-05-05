@@ -1,3 +1,8 @@
+ubuntu 安装步骤：
+sudo apt install automake
+./autogen.sh
+./configure && make
+
 ChinaDNS
 ========
 
